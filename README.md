@@ -1,5 +1,5 @@
 # lfcs-labs
-Here are five self‑contained Bash scripts—one for each mock lab outlined in the LFCS study guide.
+Here are five self‑contained Bash scripts—one for each mock lab outlined in the LFCS study guide from [LINUXexpert.org](https://linuxexpert.org).
 
 Each script:
 
