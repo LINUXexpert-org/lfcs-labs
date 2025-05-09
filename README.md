@@ -1,6 +1,4 @@
 # lfcs-labs
-Self-containted bash scripts to create troubleshooting labs for the LFCS study guide
-
 Here are five self‑contained Bash scripts—one for each mock lab outlined in the LFCS study guide.
 
 Each script:
